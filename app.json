@@ -1,8 +1,8 @@
 {
   "name": "WordPress on Heroku",
   "description": "An example of deploying web app to Heroku.",
-  "repository": "https://github.com/chenchk/wordpress-for-heroku/tree/product",
-  "website": "https://github.com/chenchk/wordpress-for-heroku",
+  "repository": "https://github.com/40740/wr/tree/product",
+  "website": "https://github.com/40740/wr",
   "keywords": ["wordpress", "blog" ],
   "addons": [
     {
